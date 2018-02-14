@@ -1,0 +1,84 @@
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\ApplicationInsights.config
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.dll.config
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.pdb
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Antlr3.Runtime.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Web.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Newtonsoft.Json.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Helpers.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Mvc.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Optimization.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Razor.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Razor.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\WebGrease.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Helpers.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Mvc.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Optimization.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.Razor.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Razor.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Antlr3.Runtime.pdb
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Newtonsoft.Json.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Web.xml
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.csproj.CoreCompileInputs.cache
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.dll
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.pdb
+C:\Users\PS.PDAnoza\source\repos\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.csprojResolveAssemblyReference.cache
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\ApplicationInsights.config
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.dll.config
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\OnlineTindahan.pdb
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Antlr3.Runtime.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.DependencyCollector.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Web.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.WindowsServer.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.ApplicationInsights.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.Web.Infrastructure.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Newtonsoft.Json.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Helpers.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Mvc.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Optimization.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Razor.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Deployment.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Razor.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\WebGrease.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Helpers.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Mvc.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Optimization.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.Razor.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Deployment.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\System.Web.WebPages.Razor.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Antlr3.Runtime.pdb
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Newtonsoft.Json.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.ApplicationInsights.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.DependencyCollector.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.WindowsServer.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\bin\Microsoft.AI.Web.xml
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.csprojResolveAssemblyReference.cache
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.csproj.CoreCompileInputs.cache
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.dll
+D:\SystemsPDA\Documents\Visual Studio 2017\Projects\OnlineTindahan\OnlineTindahan\obj\Debug\OnlineTindahan.pdb

@@ -1,0 +1,56 @@
+﻿@model OnlineTindahan.Models.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product Details</h2>
+
+@if (Model.ProductID == 0)
+{
+    <h3>Product not Found!</h3>
+}
+else
+{
+    <center>
+        <table class="table table-active">
+            <tr>
+                <th>Product ID</th>
+                <td>@Model.ProductID</td>
+            </tr>
+            <tr>
+                <th>Product Name</th>
+                <td>@Model.ProductName</td>
+            </tr>
+            <tr>
+                <th>Description</th>
+                <td>@Model.ProductDescription</td>
+            </tr>
+            <tr>
+                <th>Group</th>
+                <td>@Model.ProductGroup</td>
+            </tr>
+            <tr>
+                <th>Classification</th>
+                <td>@Model.ProductClassification</td>
+            </tr>
+            <tr>
+                <th>Brand</th>
+                <td>@Model.ProductBrand</td>
+            </tr>
+            <tr>
+                <th>Warranty (Days)</th>
+                <td>@Model.WarrantyInDays</td>
+            </tr>
+            <tr>
+                <th>Available Quantity</th>
+                <td>@Model.AvailableQuantity</td>
+            </tr>
+            <tr>
+                <th>Price </th>
+                <td>@Model.ProductPrice</td>
+            </tr>
+
+        </table>
+    </center>
+}

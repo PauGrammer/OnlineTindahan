@@ -1,0 +1,32 @@
+﻿@model OnlineTindahan.Models.User
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>User Details</h2>
+
+<center>
+    <table class="table table-active">
+        <tr>
+            <th>User ID</th>
+            <td>@Model.UserID</td>
+        </tr>
+        <tr>
+            <th>First Name</th>
+            <td>@Model.FirstName</td>
+        </tr>
+        <tr>
+            <th>Last Name</th>
+            <td>@Model.LastName</td>
+        </tr>
+        <tr>
+            <th>Email Address</th>
+            <td>@Model.EmailAddress</td>
+        </tr>
+        <tr>
+            <th>Password</th>
+            <td>@Model.Password</td>
+        </tr>
+    </table>
+</center>

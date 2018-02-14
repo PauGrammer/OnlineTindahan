@@ -1,0 +1,34 @@
+﻿@model List<OnlineTindahan.Models.Product>
+@{
+    ViewBag.Title = "GetAllProducts";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-striped">
+    <tr>
+        <th>Product Name</th>
+        <th>Description</th>
+        <th>Group</th>
+        <th>Classification</th>
+        <th>Brand</th>
+        <th>Warranty (Days)</th>
+        <th>Available Quantity</th>
+        <th>Price </th>
+        <th></th>
+    </tr>
+
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.ProductName</td>
+            <td>@product.ProductDescription</td>
+            <td>@product.ProductGroup</td>
+            <td>@product.ProductClassification</td>
+            <td>@product.ProductBrand</td>
+            <td>@product.WarrantyInDays</td>
+            <td>@product.AvailableQuantity</td>
+            <td>@product.ProductPrice </td>
+            <td>@Html.ActionLink("View", "Details", "Products", new { productID = product.ProductID},null)</td>
+        </tr>
+    }
+</table>
